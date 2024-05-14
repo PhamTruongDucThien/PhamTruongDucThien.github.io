@@ -1,0 +1,116 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #83b6f4 3px solid;
+  }
+  
+  header h1 {
+    float: left;
+    margin-top: 10px;
+  }
+  
+  nav ul {
+    float: right;
+    margin-top: 25px;
+  }
+  
+  nav ul li {
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    color: #83b6f4;
+  }
+  
+  #showcase {
+    background: #83b6f4;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  #newsletter {
+    padding: 15px;
+    color: #fff;
+    background: #333;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  #newsletter input[type="email"] {
+    padding: 10px;
+    width: 60%;
+    border: none;
+    margin-bottom: 10px;
+  }
+  
+  .button_1 {
+    display: inline-block;
+    background: #83b6f4;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button_1:hover {
+    background: #83b6f4;
+  }
+  
+  #boxes {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .box {
+    background: #fff;
+    padding: 20px;
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .box:last-child {
+    margin-right: 0;
+  }
+  
+  .box img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
