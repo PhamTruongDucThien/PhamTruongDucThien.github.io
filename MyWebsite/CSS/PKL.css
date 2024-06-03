@@ -1,0 +1,81 @@
+h1 a { 
+    font-size: 60px;
+    text-align: center;
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color :white;
+    text-align: center;
+     margin :20px;
+
+}
+a {font-size: 60px;
+    text-align: center;
+    color: aqua;
+}
+body {
+    background : url("https://gcs.tripi.vn/public-tripi/tripi-feed/img/474117qAT/hinh-nen-4k-sieu-moto_025908041.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;}
+.R1 {
+    text-align: center;
+}
+
+.MT03 {
+    text-align: center;
+}
+
+.Z300 {
+    text-align: center;
+}
+
+
+label {
+    color: white;
+    font-size: 20px;
+}
+
+select {
+    padding: 5px;
+    font-size: 16px;
+}
+
+select:focus {
+    outline: none;
+}
+
+.h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.PKLD1000cc {
+ text-align: center;
+}
+
+.PKL1000cc {
+    text-align: center;
+   }
+
+.R1 {
+    text-align: center;
+}
+
+.MT03 {
+    text-align: center;
+}
+
+.Z300 {
+    text-align: center;
+}
+
+.PKL {
+    text-align: center;
+}
